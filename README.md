@@ -2,8 +2,8 @@
 
 Инвариантная к повортоу и масштабу регистрация фрагмента изображения (template) на снимке.
 
-![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6.png)
-![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6a.png)
+![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6.png)  
+![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6a.png)  
 a) шаблон поиска  
 b) тайл с максимальным откликом  
 c) аффинная трансформация  
