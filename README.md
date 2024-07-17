@@ -2,13 +2,13 @@
 
 Инвариантная к повортоу и масштабу регистрация фрагмента изображения (template) на снимке.
 
-![alt text](https://https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6.png)
-![alt text](https://https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6a.png)
+![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6.png)
+![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6a.png)
 a) шаблон поиска \\
 b) тайл с максимальным откликом \\
 c) аффинная трансформация \\
 
-![alt text](https://https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/7.png)
+![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/7.png)
 
 response map, белая окржность - максимальный отклик, красные радиусы - показывают угол поворота  
 
