@@ -6,7 +6,7 @@
 ![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/6a.png)  
 a) шаблон поиска  
 b) тайл с максимальным откликом  
-c) аффинная трансформация  
+c) аффинная трансформация шаблона scale_and_translation(a) ~ b
 
 ![alt text](https://github.com/VolshevskyAlex/scale_rotation_invariant_match/blob/main/doc/7.png)
 
